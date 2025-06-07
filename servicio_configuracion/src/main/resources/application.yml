@@ -8,7 +8,7 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/Moises-Mestas/AquiNomas2.git
+          uri: https://github.com/Moises-Mestas/AquiNomas3
           searchPaths: config-data
           default-label: main
   security:
